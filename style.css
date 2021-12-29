@@ -1,0 +1,42 @@
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border: 5px solid black;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    font-style: italic;
+
+}
+td{
+    border: 2px solid black;
+}
+body{
+    background-image: linear-gradient(to bottom right , brown, yellow) ;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.left{
+    height:100%;
+    width:50%;
+    position:fixed;
+    left:0;
+    z-index: 1;
+    top: 0;
+}
+.right{
+    height:100%;
+    width:50%;
+    position:fixed;
+    right:0;
+    z-index: 1;
+    top: 0;
+}
