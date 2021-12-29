@@ -2,3 +2,10 @@ Milliseid erinevaid viise leiad, et lehe sisu jagada kahte tulpa?
 https://www.w3schools.com/howto/howto_css_split_screen.asp
 https://www.w3schools.com/howto/howto_css_two_columns.asp
 https://www.quora.com/How-do-you-split-a-web-page-into-two-vertical-columns-in-HTML
+
+Miks peetakse mahukama veebilehe puhul otse HTML-elementide küljes olevat stiili
+(ingl inline style) halvaks tavaks?
+inline stylega on sisu ja disain koos, mitte eraldatud
+raskem hallata
+seode jaoks halvem
+teeb lehe suuremaks
